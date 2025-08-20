@@ -6,10 +6,7 @@ Sophisticated broadcasting functions
 
 Integration tools for C/C++ and Fortran
 
-Useful linear algebra, Fourier transform, and random number capabilities
-pandas is described as a “Python package that provides fast, flexible, and expressive data structures designed to make working with ‘relational’ or ‘labeled’ data both easy and intuitive.” It serves as the fundamental, high-level building block for practical, real-world data analysis in Python.
 
-GitHub
 
 Key Features:
 
